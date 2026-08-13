@@ -128,9 +128,8 @@ label{
     position: relative;
     bottom: 30px;
 }
-.parametro-senha-textos{
+.parametro-senha__texto{
     display: flex;
-
 }   
 
 @media screen and (min-width: 768px) {
